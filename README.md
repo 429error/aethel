@@ -13,9 +13,7 @@ Unlike traditional websites, Aethel utilizes a "Temporal Anchor" logic. As the u
 
 [aethel_demo.webm](https://github.com/user-attachments/assets/d95a0a35-fcfc-4b1c-a316-b4b7a25214f4)
 
-## Run Locally
 
-**Prerequisites:**  Node.js
 
 
 1. Install dependencies:
