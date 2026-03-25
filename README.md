@@ -4,7 +4,7 @@
 ## The Experience
 Unlike traditional websites, Aethel utilizes a "Temporal Anchor" logic. As the user scrolls, the application interceptors the input to drive a 3D camera zoom.Z-Axis Immersion: Elements scale and fade from the distance ($z: -5000$) to the foreground ($z: 2000$), creating a "tunnel" effect.Fluid Morphing: Design tokens (border-radius, blur, shadows) are not static. They tween in real-time as you transition between eras.Era-Accurate Physics: From the rigid, tactile "clicked" buttons of 1995 to the frictionless, glowing glass of 2024.
 
-## Technical Stack
+## Technical Stackhttps://github.com/429error/aethel/edit/main/README.md
 **Framework**: Next.js 14 (App Router)
 **Animation Engine**: GSAP (ScrollTrigger & Timeline)**
 **UI Components**: Framer Motion (Internal element transitions)
@@ -12,9 +12,3 @@ Unlike traditional websites, Aethel utilizes a "Temporal Anchor" logic. As the u
 **State Management**: Global CSS Variable Injection via ThemeEngine.tsx
 
 [aethel_demo.webm](https://github.com/user-attachments/assets/d95a0a35-fcfc-4b1c-a316-b4b7a25214f4)
-
-
-
-
-1. Install dependencies:
-   `npm install`
