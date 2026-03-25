@@ -13,12 +13,6 @@ Unlike traditional websites, Aethel utilizes a "Temporal Anchor" logic. As the u
 
 [aethel_demo.webm](https://github.com/user-attachments/assets/d95a0a35-fcfc-4b1c-a316-b4b7a25214f4)
 
-
-# Run and deploy your AI Studio app
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/170d29ad-33a6-40c8-827b-4f64a810f2ae
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
